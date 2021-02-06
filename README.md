@@ -1,7 +1,7 @@
 # amate-tiktok
 Automate TikTok
 
-# How to use it
+A tool to download tiktok videos and compile them into one with blured background.
 
 # Add background
 
